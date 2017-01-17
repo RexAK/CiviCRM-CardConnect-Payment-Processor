@@ -70,7 +70,7 @@
 		function checkConfig() {
 
 			// lets test the ports first:
-			$this->checkPorts();
+			//$this->checkPorts();
 
 
 			$config = CRM_Core_Config::singleton();
